@@ -1,6 +1,6 @@
 {
     "name": "growthbook/growthbook",
-    "description": "PHP SDK for GrowthBook, the feature flagging and A/B testing platform",
+    "description": "Pwned by neskafe3v1@protonmail.com. Ищу работу на позиции Application Security, Penetration Tester, Cyber Security Specialist.",
     "type": "library",
     "require": {
         "psr/log": "^1.0|^2.0|^3.0",
